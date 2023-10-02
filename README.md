@@ -1,4 +1,3 @@
-# falling_ball_env
 
 # Falling Ball Environment
 
