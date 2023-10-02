@@ -34,7 +34,8 @@ Here's a basic usage example:
 import gym
 env = gym.make('FallingBall-v0')
 
-for _ in range(10):  # Try 10 episodes
+for _ in range(10):  # Try 10 episodes[FallingBall.pdf](https://github.com/goodluckoguzie/falling_ball_env/files/12781559/FallingBall.pdf)
+
     obs = env.reset()
     done = False
     while not done:
