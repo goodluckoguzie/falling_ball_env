@@ -42,3 +42,13 @@ for _ in range(10):  # Try 10 episodes[FallingBall.pdf](https://github.com/goodl
         obs, reward, done, info = env.step(None)
         env.render()
 # falling_ball_env
+
+
+
+@article{fallingballreference,
+  title={Falling Ball Environment},
+  author={Goodluck Oguzie},
+  journal={GitHub Repository},
+  year={"2023"},
+  url={https://github.com/goodluckoguzie/falling_ball_env}
+}
