@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyo
+*.egg
+*.egg-info
+dist/
+build/
+
+# Virtual environment directories
+venv/
+*.venv
+env/
+
+# Jupyter notebook
+.ipynb_checkpoints
+
+# Datasets and large files
+*.csv
+*.dataset
+*.db
+*.log
+*.tar.gz
+*.zip
+
+# Other unwanted files
+.DS_Store
+*.bak
+*.swp
+*.swo
