@@ -40,3 +40,4 @@ for _ in range(10):  # Try 10 episodes
     while not done:
         obs, reward, done, info = env.step(None)
         env.render()
+# falling_ball_env
