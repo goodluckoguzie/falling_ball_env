@@ -22,9 +22,6 @@ The environment simulates a ball falling due to gravity. The environment keeps t
 - Numpy
 - OpenCV
 
-### Installation
-
-<Your installation steps here, e.g., cloning the repo, installing dependencies>
 
 ### Usage
 
